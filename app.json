@@ -1,7 +1,7 @@
 {
-  "name": " JAlvey Node.js Test",
-  "description": "A barebones Node.js app using Express 4, hosted on Heroku",
-  "repository": "https://github.com/Jual6332/heroku-test",
+  "name": "Node.js Sample",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/heroku/node-js-sample",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["node", "express", "static"]
 }
