@@ -1,4 +1,4 @@
 <?php 
 session_start();
-include("template/home.php"); 
+include("home.php"); 
 ?>
